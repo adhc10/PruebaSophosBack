@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31cc9e9f-69a1-4b31-9bdb-4362ab487494": {
+      "ProjectGuid": "31cc9e9f-69a1-4b31-9bdb-4362ab487494",
+      "DisplayName": "WebApiSophos",
+      "ColorIndex": 0
+    },
+    "6b46a957-5e07-407e-aee7-bb35d15cc6cf": {
+      "ProjectGuid": "6b46a957-5e07-407e-aee7-bb35d15cc6cf",
+      "DisplayName": "Business",
+      "ColorIndex": 1
+    },
+    "c81c7e3d-67d3-4380-935e-fa2e493ad773": {
+      "ProjectGuid": "c81c7e3d-67d3-4380-935e-fa2e493ad773",
+      "DisplayName": "Dal",
+      "ColorIndex": 2
+    },
+    "abf1b77e-983f-4964-b45c-5162572049c7": {
+      "ProjectGuid": "abf1b77e-983f-4964-b45c-5162572049c7",
+      "DisplayName": "Web",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
